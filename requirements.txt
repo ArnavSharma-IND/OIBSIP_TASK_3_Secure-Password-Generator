@@ -1,0 +1,8 @@
+# Secure Password Generator Requirements
+# Core dependencies
+pyperclip>=1.8.2
+pillow>=10.0.0
+
+# Development, Testing, and Packaging
+pytest>=7.4.0
+pyinstaller>=6.0.0
