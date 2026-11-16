@@ -14,7 +14,7 @@
 <br/>
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Security](https://img.shields.io/badge/Security-CSPRNG-9B59FF?style=for-the-badge&logo=letsencrypt)]()
+[![Security](https://img.shields.io/badge/Security-CSPRNG-9B59FF?style=for-the-badge)]()
 [![GUI](https://img.shields.io/badge/GUI-Tkinter-00C6FF?style=for-the-badge)]()
 [![Tests](https://img.shields.io/badge/Tests-52_Passed-2ECC71?style=for-the-badge&logo=pytest)]()
 [![Privacy](https://img.shields.io/badge/Privacy-Offline_First-00C6FF?style=for-the-badge)]()
@@ -514,35 +514,7 @@ The application follows a Scandinavian-inspired minimalist design system.
 
 ---
 
-## ◈ 15 — APPLICATION SCREENSHOTS
-
-<div align="center">
-
-### Dark Mode — Main Generator
-
-<img src="assets/screenshots/dark_mode_generator.png" width="90%" alt="Dark Mode Password Generator"/>
-
-### Dark Mode — Cryptographic Security & Entropy
-
-<img src="assets/screenshots/dark_mode_security.png" width="90%" alt="Security and Entropy Analysis"/>
-
-### Dark Mode — Passphrase Generator
-
-<img src="assets/screenshots/dark_mode_passphrase.png" width="90%" alt="Passphrase Generator"/>
-
-### Light Mode — Password Generator
-
-<img src="assets/screenshots/light_mode_generator.png" width="90%" alt="Light Mode Password Generator"/>
-
-### Light Mode — Session History
-
-<img src="assets/screenshots/light_mode_history.png" width="90%" alt="Session History"/>
-
-</div>
-
----
-
-## ◈ 16 — PROJECT DIRECTORY STRUCTURE
+## ◈ 15 — PROJECT DIRECTORY STRUCTURE
 
 ```text
 ArnavSharma_Task3/
@@ -605,7 +577,7 @@ ArnavSharma_Task3/
 
 ---
 
-## ◈ 17 — INSTALLATION PREREQUISITES
+## ◈ 16 — INSTALLATION PREREQUISITES
 
 - Python 3.10 or higher.
 - Windows 10 / Windows 11 recommended.
@@ -614,7 +586,7 @@ ArnavSharma_Task3/
 
 ---
 
-## ◈ 18 — VIRTUAL ENVIRONMENT SETUP
+## ◈ 17 — VIRTUAL ENVIRONMENT SETUP
 
 Open PowerShell in the repository directory.
 
@@ -638,7 +610,7 @@ Alternatively, using Command Prompt:
 
 ---
 
-## ◈ 19 — DEPENDENCY INSTALLATION
+## ◈ 18 — DEPENDENCY INSTALLATION
 
 Install the required packages:
 
@@ -650,7 +622,7 @@ pip install -r requirements.txt
 
 ---
 
-## ◈ 20 — RUNNING THE APPLICATION
+## ◈ 19 — RUNNING THE APPLICATION
 
 Launch the desktop application:
 
@@ -662,7 +634,7 @@ The application opens its desktop interface with the saved user preferences and 
 
 ---
 
-## ◈ 21 — CONFIGURATION & PREFERENCES
+## ◈ 20 — CONFIGURATION & PREFERENCES
 
 The application stores non-sensitive preferences in:
 
@@ -691,7 +663,7 @@ The application stores non-sensitive preferences in:
 
 ---
 
-## ◈ 22 — AUTOMATED TESTING & QUALITY ASSURANCE
+## ◈ 21 — AUTOMATED TESTING & QUALITY ASSURANCE
 
 <div align="center">
 
@@ -729,11 +701,9 @@ pytest -v
 - Session history lifecycle validation.
 - Passphrase generation validation.
 
-<badge color="success">52 automated tests reported passing</badge>
-
 ---
 
-## ◈ 23 — PYINSTALLER STANDALONE PACKAGING
+## ◈ 22 — PYINSTALLER STANDALONE PACKAGING
 
 Generate a standalone Windows executable:
 
@@ -752,7 +722,7 @@ This allows the application to run on compatible Windows systems without requiri
 
 ---
 
-## ◈ 24 — SECURITY CONSIDERATIONS & THREAT MODEL
+## ◈ 23 — SECURITY CONSIDERATIONS & THREAT MODEL
 
 | Potential Threat | Mitigation |
 |:---|:---|
@@ -777,7 +747,7 @@ Although the application follows cryptographic best practices, some limitations 
 
 ---
 
-## ◈ 25 — TROUBLESHOOTING
+## ◈ 24 — TROUBLESHOOTING
 
 <details>
 <summary><b>▶ No module named '_tkinter'</b></summary>
@@ -814,7 +784,7 @@ Then activate the virtual environment again.
 
 ---
 
-## ◈ 26 — FUTURE ENHANCEMENTS
+## ◈ 25 — FUTURE ENHANCEMENTS
 
 | Enhancement | Status |
 |:---|:---:|
@@ -824,7 +794,7 @@ Then activate the virtual environment again.
 
 ---
 
-## ◈ 27 — FEATURE CHECKLIST
+## ◈ 26 — FEATURE CHECKLIST
 
 ### Beginner Tier
 
@@ -863,7 +833,7 @@ Then activate the virtual environment again.
 
 ---
 
-## ◈ 28 — DEVELOPER
+## ◈ 27 — DEVELOPER
 
 <div align="center">
 
